@@ -27,7 +27,7 @@ An interactive 3D office environment built with Python, PyGame, and OpenGL, feat
    pip install -r requirements.txt
    ```
 
-4. Create a `.env` file in the project root and add your OpenAI API key :
+4. Create a `.env` file in the project root and add your OpenAI API key:
    ```plaintext
    OPENAI_API_KEY=your_api_key_here
    ```
