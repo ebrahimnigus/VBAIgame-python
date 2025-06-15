@@ -16,7 +16,7 @@ An interactive 3D office environment built with Python, PyGame, and OpenGL, feat
    cd VBAIgame
    ```
 
-2. Create a virtual environment:
+2. Create a virtual environment :
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
