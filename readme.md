@@ -10,7 +10,7 @@ An interactive 3D office environment built with Python, PyGame, and OpenGL, feat
 
 ## Installation
 
-1. Clone the repository :
+1. Clone the repository:
    ```bash
    git clone https://github.com/amplitudeventures/VBAIgame.git
    cd VBAIgame
