@@ -1,6 +1,6 @@
 # Venture Builder AI
 
-An interactive 3D office environment built with Python, PyGame, and OpenGL, featuring AI-powered NPCs.
+An interactive 3D office environment built with Python, PyGame, and OpenGL, featuring AI-powered NPCs .
 
 ## Prerequisites
 
@@ -10,19 +10,19 @@ An interactive 3D office environment built with Python, PyGame, and OpenGL, feat
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository :
    ```bash
    git clone https://github.com/amplitudeventures/VBAIgame.git
    cd VBAIgame
    ```
 
-2. Create a virtual environment:
+2. Create a virtual environment :
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. Install dependencies:
+3. Install dependencies :
    ```bash
    pip install -r requirements.txt
    ```
