@@ -1,6 +1,6 @@
 # Venture Builder AI
 
-An interactive 3D office environment built with Python, PyGame, and OpenGL, featuring AI-powered NPCs .
+An interactive 3D office environment built with Python, PyGame, and OpenGL, featuring AI-powered NPCs.
 
 ## Prerequisites
 
